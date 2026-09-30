@@ -30,5 +30,5 @@ May 2021.
 
 ## Files
 
-- `datafile -Copy.xlsx` — index values, computed inflation, period 
+- `datafile - Copy.xlsx` — index values, computed inflation, period 
   classifications, and summary statistics
